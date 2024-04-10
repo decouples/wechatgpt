@@ -23,7 +23,6 @@ pip3 install -r requirements.txt
 # config.json文件内容示例
 {
   "zhipu_ai_api_key": "your zhipu ai api key",                # zhipu AI API KEY
-  "zhipu_ai_app_id": "",                                      # zhipu app id
   "model": "glm-4",                                           # 模型名称
   "proxy": "",                                                # 代理客户端的ip和端口，国内环境开启代理的需要填写该项，如 "127.0.0.1:7890"
   "single_chat_prefix": ["robot", "@robot"],                      # 私聊时文本需要包含该前缀才能触发机器人回复
