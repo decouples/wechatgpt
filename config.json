@@ -1,0 +1,30 @@
+{
+  "channel_type": "wx",
+  "model": "glm-4",
+  "zhipu_ai_api_key": "c8d77ff3f4f4b.StWm02gmVldZU83r",
+  "zhipu_ai_app_id": "",
+  "text_to_image": "cogview-3",
+  "trigger_by_self": true,
+  "proxy": "",
+  "hot_reload": false,
+  "single_chat_prefix": [
+    "robot",
+    "@robot"
+  ],
+  "single_chat_reply_prefix": "",
+  "group_chat_prefix": [
+    "@robot"
+  ],
+  "group_name_white_list": [
+    "ALL_GROUP"
+  ],
+  "image_create_prefix": [
+    "画"
+  ],
+  "nick_name_black_list": [],
+  "conversation_max_tokens": 2500,
+  "expires_in_seconds": 3600,
+  "character_desc": "你是一个大型语言模型, 你旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。",
+  "temperature": 0.7,
+  "subscribe_msg": "感谢您的关注！\n这里是AI智能助手，可以自由对话。\n支持语音对话。\n支持图片输入。\n支持图片输出，画字开头的消息将按要求创作图片。\n支持tool、角色扮演和文字冒险等丰富的插件。\n输入{trigger_prefix}#help 查看详细指令。"
+}
